@@ -1,15 +1,16 @@
-# Welcome to INTENT Labs!
+# Welcome to INTENT Labs 
 
-At INTENT Labs we focuse on fundamental and applied research in intelligent networks. Our mission is to develop novel techniques and algorithms to address the challenges of next-generation networking problems. We leverage Reinforcement Learning, machine learning, and network science to create intelligent and adaptive network systems.
+At **INTENT Labs**, our mission revolves around pioneering techniques and cutting-edge algorithms designed to tackle the challenges posed by next-generation networking. We harness the power of reinforcement Learning, machine learning, and network science to create intelligent and adaptable networks. Through our commitment to pushing the boundaries of technology, we strive to redefine the future of network architecture.
 
-INTENT Lab is affiliated with the Electrical Department at the Indian Institute of Technology Kanpur (IIT Kanpur), under the guidence of [Dr. Subrahmanya Swamy Peruru](https://home.iitk.ac.in/~swamyp/).
-
-📍 **Location**: You can find us at 408E, nestled within the Advanced Centre for Electronics Systems (ACES) at IIT Kanpur.
+**INTENT Lab** is guided by the expertise of [Dr. S. Swamy Peruru](https://home.iitk.ac.in/~swamyp/), whose extensive knowledge and experience inspire and propel our research and development activities.
 
 ## Research Areas
 - Intelligent routing algorithms
 - Reinforcement learning for network optimization
 - Network security
 
-Let's innovate together and shape the future of networking!
+## Contact Us 
+For inquiries, ideas, or collaboration opportunities, please feel free to reach out to us at this [swamyp@iitk.ac.in](mailto:swamyp@iitk.ac.in). We eagerly await the opportunity to connect with you.  
+
+📍 **Location**: You can find us at **408E**, Advanced Centre for Electronics Systems (**ACES**) at IIT Kanpur.
 
